@@ -15,9 +15,12 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY backend/ .
 COPY data/ /data/
 
+
 COPY backend/start.sh /start.sh
-RUN chmod +x /start.sh
+
+RUN sed -i 's/\r$//' /start.sh \
+    && chmod +x /start.sh
 
 EXPOSE 8000
 
-CMD ["/start.sh"]
+CMD ["/bin/sh", "/start.sh"]
