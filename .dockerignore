@@ -1,0 +1,10 @@
+
+.git
+.gitignore
+backend/venv
+backend/.env
+backend/chroma_db
+frontend/node_modules
+frontend/dist
+__pycache__
+*.pyc

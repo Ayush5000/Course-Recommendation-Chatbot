@@ -1,0 +1,72 @@
+
+[
+  {
+    "id": "course_001",
+    "title": "Machine Learning Specialization",
+    "provider": "Coursera",
+    "instructor": "Andrew Ng",
+    "category": "Machine Learning",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "financial_aid": true,
+    "certificate": true,
+    "description": "Learn supervised learning, neural networks, decision trees, unsupervised learning and recommender systems.",
+    "url": "https://www.coursera.org/specializations/machine-learning-introduction"
+  },
+  {
+    "id": "course_002",
+    "title": "Machine Learning Crash Course",
+    "provider": "Google",
+    "category": "Machine Learning",
+    "level": "Beginner",
+    "pricing": "Free",
+    "certificate": false,
+    "description": "Practical introduction to machine learning, regression, classification, neural networks and model evaluation.",
+    "url": "https://developers.google.com/machine-learning/crash-course"
+  },
+  {
+    "id": "course_003",
+    "title": "CS50's Introduction to Computer Science",
+    "provider": "Harvard / edX",
+    "category": "Computer Science",
+    "level": "Beginner",
+    "pricing": "Free to audit",
+    "certificate": "Depends on certificate option",
+    "description": "Introduction to programming, algorithms, data structures, Python, SQL and web development.",
+    "url": "https://cs50.harvard.edu/x/"
+  },
+  {
+    "id": "course_004",
+    "title": "Python for Everybody",
+    "provider": "Coursera",
+    "category": "Python",
+    "level": "Beginner",
+    "pricing": "Paid",
+    "certificate": true,
+    "description": "Learn Python programming, data structures, web data extraction and database fundamentals.",
+    "url": "https://www.coursera.org/specializations/python"
+  },
+  {
+    "id": "course_005",
+    "title": "Scientific Computing with Python",
+    "provider": "freeCodeCamp",
+    "category": "Python",
+    "level": "Beginner",
+    "pricing": "Free",
+    "certificate": true,
+    "description": "Learn Python programming through practical exercises and projects.",
+    "url": "https://www.freecodecamp.org/learn/scientific-computing-with-python/"
+  },
+  {
+    "id": "course_006",
+    "title": "Deep Learning Specialization",
+    "provider": "Coursera",
+    "instructor": "Andrew Ng",
+    "category": "Deep Learning",
+    "level": "Intermediate",
+    "pricing": "Paid",
+    "certificate": true,
+    "description": "Learn deep neural networks, convolutional neural networks, sequence models and optimization.",
+    "url": "https://www.coursera.org/specializations/deep-learning"
+  }
+]
